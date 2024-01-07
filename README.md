@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif" width="100"/>
-  
+  <h1>Hi! I'm Alexander</h1>
+  <p>An iOS Developer from Ukraine</p>
+
   <div id="badges">
     <a href="www.linkedin.com/in/alexander-andrianov-927b98277">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -9,19 +10,16 @@
       <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-  
-  <h1>Hi 👋, I'm Alexander</h1>
-  <p>An iOS Developer from Ukraine</p>
 
+  <p></p>
   <div align="center">
-    <img src="https://media.giphy.com/media/l41YgDnHkMxVls4P6/giphy.gif" width="600" height="300"/>
+    <img src="https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-superJumbo.gif" width="600" height="350"/>
   </div>
 </div>
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+<p></p>
+
+- I'm a student of Petro Mohyla Black Sea National University, and I like to develop products for the Apple platform.
 
 ---
 ### Languages and Tools:
@@ -37,5 +35,3 @@
 ---
 ### My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=an4lex&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an4lex)](https://github.com/anuraghazra/github-readme-stats)
