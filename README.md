@@ -4,10 +4,10 @@
 
   <div id="badges">
     <a href="www.linkedin.com/in/alexander-andrianov-927b98277">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor="white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/an4lex">
-      <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
 
@@ -19,7 +19,7 @@
 
 <p></p>
 
-- I'm a student of Petro Mohyla Black Sea National University, and I like to develop products for the Apple platform.
+- I'm a student at Petro Mohyla Black Sea National University, and I like to develop products for the Apple platform.
 
 ---
 ### Languages and Tools:
