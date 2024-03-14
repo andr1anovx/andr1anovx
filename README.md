@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <h1>Hi! I'm Alexander</h1>
-  <p>An iOS Developer from Ukraine</p>
+  <h1>Hi, I'm Alexander!</h1>
+  <p>iOS Software Engineer from Ukraine</p>
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/alexander-andrianov-927b98277">
@@ -10,7 +10,6 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
   </div>
-
   <p></p>
   <div align="center">
     <img src="https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-superJumbo.gif" width="600" height="350"/>
@@ -19,7 +18,7 @@
 
 <p></p>
 
-- I am a third-year student at the university majoring in software engineering.
+- I'm a third-year student at the university majoring in software engineering
 
 ---
 ### Languages and Tools:
