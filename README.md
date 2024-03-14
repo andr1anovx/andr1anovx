@@ -19,7 +19,7 @@
 
 <p></p>
 
-- I'm a student at Petro Mohyla Black Sea National University, and I like to develop products for the Apple platform.
+- I am a third-year student at the university majoring in software engineering.
 
 ---
 ### Languages and Tools:
