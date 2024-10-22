@@ -15,12 +15,11 @@
 
 <p></p>
 
-- I'm a third-year student at the university majoring in software engineering
+- I am a fourth year university student majoring in software engineering.
 
 ---
-### Languages and Tools:
+### My technology stack:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" title="SwiftUI" alt="SwiftUI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
